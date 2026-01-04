@@ -1,11 +1,11 @@
 {
   "Maps": {
     "0": {
-      "Extents": { "Top": 31, "Bottom": -52, "Left": -37, "Right": 54 },
+      "Extents": { "Top": 41, "Bottom": -62, "Left": -44, "Right": 59 },
       "ID": 0,
       "ConnectedTo": {},
       "CenterX": 1,
-      "CenterY": -108
+      "CenterY": -17
     }
   },
   "MaxHeight": 21168,
